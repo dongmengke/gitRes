@@ -92,4 +92,5 @@ public class HandlerString {
     public static  void _aaaa_11(){}
     public static  void $aaaa_(){}
     public static  void mai(){}
+    public static  void mai1(){}
 }
