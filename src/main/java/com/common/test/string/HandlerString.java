@@ -93,4 +93,5 @@ public class HandlerString {
     public static  void $aaaa_(){}
     public static  void mai(){}
     public static  void mai1(){}
+    public static  void testGit(){}
 }
